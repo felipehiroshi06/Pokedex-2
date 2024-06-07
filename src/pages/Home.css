@@ -1,0 +1,14 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+  }
+  
+.pokemon-logo {
+    max-width: 400px; 
+    margin-top: 20px;
+    align-items: center;
+    background-color: black;
+  }
